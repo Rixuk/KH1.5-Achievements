@@ -1,0 +1,6 @@
+.achievements {
+  padding: 20px auto 20px;
+  display: flex;
+  flex-flow: row wrap;
+  gap: 50px;
+}

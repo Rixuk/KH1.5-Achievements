@@ -1,0 +1,10 @@
+.header {
+  margin: 0 auto 100px;
+  color: #a0e5f6;
+  display: flex;
+  justify-content: center;
+  font-family: "Delius", Arial, Helvetica, sans-serif;
+}
+.header__title {
+  margin: 0;
+}
